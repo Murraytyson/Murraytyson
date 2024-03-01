@@ -1,6 +1,6 @@
 Hello i'm Tyson Murray
 -  I’m interested in website development.
--  I have knowledge in Python, HTML , CSS and JavaScript.
+-  My skills:  Python, HTML , CSS and JavaScript.
 -  I’m looking forward to collaborate with other developers to learn to build websites. 
 -  I'll be pleased to reach out :  murraytyson098@gmail.com 
 
