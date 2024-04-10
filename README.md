@@ -1,6 +1,5 @@
-Hello i'm Tyson Murray
--  I’m interested in website development.
--  I’m looking forward to collaborate with other developers to learn to build websites. 
+Hello
+-  I’m interested in website development,looking forward to collaborate with other developers to build websites. 
 -  I'll be pleased to reach out :  murraytyson098@gmail.com 
 
 <!---
